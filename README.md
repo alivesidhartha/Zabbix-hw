@@ -23,6 +23,7 @@ systemctl enable zabb
 ### Задание 2
 ![Хосты добавлены](hosts-added.jpg)
 ![Логи агента](agent-log.jpg)
+![Даныне с агентов](latest-data.jpg)
 
 ```bash
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/
